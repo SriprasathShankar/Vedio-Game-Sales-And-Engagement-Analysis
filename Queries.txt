@@ -1,0 +1,37 @@
+Game 
+1. What are the top-rated games by user reviews?
+2. Which developers (Teams) have the highest average ratings?
+3. What are the most common genres in the dataset?
+4. Which games have the highest backlog compared to wishlist?
+5. What is the game release trend across years?
+6. What is the distribution of user ratings?
+7. What are the top 10 most wishlisted games?
+8. What’s the average number of plays per genre?
+9. Which developer studios are the most productive and impactful?
+Sales Data Only
+
+Sales:
+
+10. Which region generates the most game sales?
+11. What are the best-selling platforms?
+12. What’s the trend of game releases and sales over years?
+13. Who are the top publishers by sales?
+14. Which games are the top 10 best-sellers globally?
+15. How do regional sales compare for specifi c platforms?
+16. How has the market evolved by platform over time?
+17. What are the regional genre preferences?
+18. What’s the yearly sales change per region?
+19. What is the average sales per publisher?
+20. What are the top 5 best-selling games per platform?
+
+Sales + Engagement + Ratings
+21. Which game genres generate the most global sales?
+22. How does user rating affect global sales?
+23. Which platforms have the most games with high ratings (e.g., above 4)?
+24. What’s the trend of releases and sales over time?
+25. Do highly wishlisted games lead to more sales?
+26. Which genres have the highest engagement but lowest sales?
+27. Do highly listed games (wishlist/backlogs) correlate with better ratings?
+28. How does user engagement differ across genres?
+29. What are the top-performing combinations of Genre + Platform?
+30. What does a regional sales heatmap by genre reveal?
